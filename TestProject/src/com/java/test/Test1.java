@@ -8,6 +8,7 @@ public class Test1 {
 		System.out.println("X value is : " + x);
 		float y = 12.45f;
 		System.out.println("Y value is : " + y);
+		System.out.println("Hello");
 	}
 
 }
